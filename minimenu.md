@@ -2,8 +2,8 @@
 
 This is some sample text with a mini menu. Hover over the text below to see the menu:
 
-<span class="tooltip">Hover over me
-  <span class="tooltiptext">
+Hover over me <span style="position: relative; display: inline-block; border-bottom: 1px dotted black;">
+  <span style="visibility: hidden; width: 120px; background-color: #555; color: #fff; text-align: center; border-radius: 6px; padding: 5px 0; position: absolute; z-index: 1; bottom: 100%; left: 50%; margin-left: -60px;">
     | Key   | Value    |
     |-------|----------|
     | A     | Alpha    |
@@ -12,6 +12,7 @@ This is some sample text with a mini menu. Hover over the text below to see the 
     | D     | Delta    |
   </span>
 </span>
+
 
 Here is some more sample text.
 
