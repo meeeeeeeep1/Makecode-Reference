@@ -43,6 +43,16 @@ Here is even more text.
   padding: 16px;
 }
 </style>
+<div style="background-color: #f2f2f2; border: 1px solid #ddd; border-radius: 4px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+  <h2>Card Title</h2>
+  <p>This is some text inside the card.</p>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+  </ul>
+</div>
+
 ```codecard
 [
 {
