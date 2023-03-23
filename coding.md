@@ -2,6 +2,14 @@
 
 ## Code Snippets
 
+```cards
+controller.A.onEvent(ControllerButtonEvent.Pressed, function () {})
+controller.A.isPressed()
+controller.moveSprite(null, 0, 0)
+controller.dx(100)
+controller.dy(100)
+```
+
 #### On Paint
 ```typescript
 game.onPaint(function() {
