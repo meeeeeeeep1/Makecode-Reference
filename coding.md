@@ -1,22 +1,15 @@
-<link rel="stylesheet" href="https://arcade.makecode.com/styles/arcade.css">
 
 ## Code Snippets
 
-```cards
-controller.A.onEvent(ControllerButtonEvent.Pressed, function () {})
-controller.A.isPressed()
-controller.moveSprite(null, 0, 0)
-controller.dx(100)
-controller.dy(100)
-```
 
 #### On Paint
-```typescript
+```
 game.onPaint(function() {
+
 })
 ```
 #### Print Center
-```typescript
+```
 Image.printCenter(String, y, color,)
 ```
 1. Replace `Image` with your image (usually `screen`)
@@ -24,7 +17,7 @@ Image.printCenter(String, y, color,)
 3. Replace `y` with the y
 4. Replace `Color` with your color [^1]
 #### Print Text
-```typescript
+```
 Image.print(String, x, y, color,)
 ```
 1. Replace `Image` with your image (usually `screen`)
