@@ -22,7 +22,7 @@ Here is some additional text.
 ### Sub-Subheading
 
 Here is even more text.
-
+<style>
 .tooltip {
   position: relative;
   display: inline-block;
@@ -49,3 +49,4 @@ Here is even more text.
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+  </style>
