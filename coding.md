@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://arcade.makecode.com/styles/arcade.css">
+
 ## Code Snippets
 
 #### On Paint
