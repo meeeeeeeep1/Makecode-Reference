@@ -1,12 +1,12 @@
 ## Code Snippets
 
 #### On Paint
-```
+```typescript
 game.onPaint(function() {
 })
 ```
 #### Print Center
-```
+```typescript
 Image.printCenter(String, y, color,)
 ```
 1. Replace `Image` with your image (usually `screen`)
@@ -14,7 +14,7 @@ Image.printCenter(String, y, color,)
 3. Replace `y` with the y
 4. Replace `Color` with your color [^1]
 #### Print Text
-```
+```typescript
 Image.print(String, x, y, color,)
 ```
 1. Replace `Image` with your image (usually `screen`)
