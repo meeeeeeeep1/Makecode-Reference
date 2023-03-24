@@ -18,5 +18,4 @@
   padding: 16px;
 }
 </style>
-<div style="background-color: #f2f2f2; border: 1px solid #ddd; border-radius: 4px; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
   
