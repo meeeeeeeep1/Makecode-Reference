@@ -1,12 +1,8 @@
 
 <div class="card">
   <h2><a href="https://arcade.makecode.com/developer/button-tester">Button Tester</a></h2>
-  <p>This is some card content.</p>
-  <ul>
-    <li>List item 1</li>
-    <li>List item 2</li>
-    <li>List item 3</li>
-  </ul>
+  <p>A button tester for makecode arcade</p>
+ <img src="https://pxt.azureedge.net/blob/b44f1431af3c2ddd1d9f59506fd60a4546c02270/static/blog/arcade/update-july-2020/game-go.png" alt="Console"> 
 </div>
 
 <style>
