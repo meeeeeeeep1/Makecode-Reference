@@ -1,6 +1,6 @@
 
 <div class="card">
-  <h2>Card Title</h2>
+  <h2><a href="https://arcade.makecode.com/developer/button-tester">Button Tester</a></h2>
   <p>This is some card content.</p>
   <ul>
     <li>List item 1</li>
